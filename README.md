@@ -44,13 +44,13 @@ This file contains data in this format
 ## Program Author
 ### Sarvesh E B
 
-## Created to assist PhD research of:
+## Created to assist the research of:
 
 <block>
   
-### Athanasios P. Fassas
-### Sotirios K. Bellos
-### George Kladakis
+#### Athanasios P. Fassas
+#### Sotirios K. Bellos
+#### George Kladakis
 
 </block>
 
