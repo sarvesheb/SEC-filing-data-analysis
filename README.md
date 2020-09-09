@@ -6,6 +6,7 @@ This is a Python application that downloads the SEC EDGAR filings from the offic
 beautifulsoup4==4.8.0
 filelock==3.0.12
 sec-edgar-downloader==3.0.5
+lxml==4.5.0
 ```
 
 ## How to Use
@@ -45,9 +46,14 @@ This file contains data in this format
 
 ## Created to assist PhD research of:
 
+<block>
+  
 ### Athanasios P. Fassas
 ### Sotirios K. Bellos
 ### George Kladakis
+
+</block>
+
 
 
 
