@@ -55,7 +55,7 @@ This file contains data in this format
 </block>
 
 ## Credits
-Sec-Edgar-Downloader module developer @jadchaar for the intuitve commands to automate the bulk downloading
-https://github.com/jadchaar/sec-edgar-downloader
+[Sec-Edgar-Downloader](https://github.com/jadchaar/sec-edgar-downloader) module developer @jadchaar for the intuitve commands to automate the bulk downloading
+
 
 
