@@ -1,5 +1,5 @@
 # SEC-filing-data-analysis
-This is a Python application that downloads the SEC EDGAR filings from the official website onto your local hard-disk and performs data analysis on the text
+This is a Python application that downloads the SEC EDGAR filings from the official website onto your local hard-disk and performs sentiment analysis on the text and organizes every individual company's unique identifiers into a CSV file. This helps find the company's performance and stock trends which further can be used as training data for Neural Network models.
 
 ## Requirements
 ```
